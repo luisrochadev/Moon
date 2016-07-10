@@ -1,11 +1,11 @@
 # Site
-title:              Moon
-bio:                'Minimal, one column jekyll theme.'
+title:              Luis Rocha
+bio:                'San Francisco-based frontend developer and photographer fueled by creativity and coffee coffee.'
 description:        "Moon is a minimal, one column jekyll theme for your blog."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
-background:         'assets/img/placeholder-big.jpg'
+background:         ''
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                http://taylantatli.me/Moon
@@ -38,18 +38,18 @@ disqus_shortname:   taylantatli
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            username
-facebook:           username
-github:             username
+twitter:            luisus_christ
+#facebook:           username
+github:             luisrochadev
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+linkedin:          luisrochadev
 #xing:              username
-instagram:          username
+instagram:          luisrochaphoto
 #lastfm:            username
 #tumblr:            username
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
 #youtube:           username
 #soundcloud:        username
